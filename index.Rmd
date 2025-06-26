@@ -1,5 +1,8 @@
 ---
-title: "Codes Testing"
+title: "index.Rmd"
+author: "Jonathan Lai"
+date: "2025-06-26"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
